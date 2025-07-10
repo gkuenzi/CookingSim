@@ -1,0 +1,9 @@
+parameters player can't touch
+
+off-limits x: 419 to 482 if player is greater than 125  OR  x is 
+greater than 626 unless y is less than 173
+
+
+off-limits y: 110 to 149 unless player's x 
+is within 569 to 626
+
